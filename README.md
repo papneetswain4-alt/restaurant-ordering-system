@@ -52,17 +52,28 @@ The system also includes an admin dashboard that allows restaurant owners to man
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-(Add screenshot here)
+<p align="center">
+  <img src="Ss/Screenshot 2026-02-05 235621.png" width="700">
+</p>
 
 ---
 
 ### 🍕 Menu Page
-(Add screenshot here)
-
+<p align="center">
+  <img src="Ss/Screenshot 2026-02-05 235803.png" width="700">
+</p>
+<p align="center">
+  <img src="Ss/Screenshot 2026-02-05 235833.png" width="700">
+</p>
 ---
 
 ### 📊 Admin Dashboard
-(Add screenshot here)
+<p align="center">
+  <img src="Ss/Screenshot 2026-02-05 235957.png" width="700">
+</p>
+<p align="center">
+  <img src="Ss/Screenshot 2026-02-06 000025.png" width="700">
+</p>
 
 ---
 
@@ -260,4 +271,5 @@ Papneet
 ## ⭐ Support
 
 If you like this project, consider giving it a star ⭐
+
 
