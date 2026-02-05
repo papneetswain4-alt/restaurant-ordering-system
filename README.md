@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-🌐 Frontend: https://foodify-ordering.netlify.app  
+🌐 Frontend: https://foodily-orders.netlify.app
 🔗 Backend API: https://restaurant-ordering-system-lfub.onrender.com  
 
 ---
@@ -197,35 +197,6 @@ Your secret things like **Port number** , **MongoDB URL** etc
 
 ---
 
-## 💻 Local Setup Guide
-
-### Clone Repository
-
-git clone https://github.com/papneetswain4-alt/foodify.git
-
-
----
-
-### Install Backend Dependencies
-cd backend
-npm install
-
-
----
-
-### Run Backend Server
-npm start
-
-
----
-
-### Run Frontend
-Open frontend folder and run:
-
-index.html → Open with Live Server
-
-
----
 
 ## 🔐 Authentication Flow
 
@@ -265,13 +236,15 @@ Flow:
 
 ## 👨‍💻 Author
 
-Papneet  
+Papneet Swaim
+`Friendly Neighborhood Developer`
 
 ---
 
 ## ⭐ Support
 
 If you like this project, consider giving it a star ⭐
+
 
 
 
