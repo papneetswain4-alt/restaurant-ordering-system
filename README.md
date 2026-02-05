@@ -65,6 +65,7 @@ The system also includes an admin dashboard that allows restaurant owners to man
 <p align="center">
   <img src="Ss/Screenshot 2026-02-05 235833.png" width="700">
 </p>
+
 ---
 
 ### 📊 Admin Dashboard
@@ -271,5 +272,6 @@ Papneet
 ## ⭐ Support
 
 If you like this project, consider giving it a star ⭐
+
 
 
