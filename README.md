@@ -5,6 +5,7 @@
 ## 🚀 Live Demo
 
 🌐 Frontend: https://foodily-orders.netlify.app
+
 🔗 Backend API: https://restaurant-ordering-system-lfub.onrender.com  
 
 ---
@@ -247,6 +248,7 @@ Papneet Swain
 ## ⭐ Support
 
 If you like this project, consider giving it a star ⭐
+
 
 
 
