@@ -107,7 +107,8 @@ The system also includes an admin dashboard that allows restaurant owners to man
 
 ## 📂 Project Structure
 
-### 🌐 Frontend Pages
+### 🌐 Frontend Pages (FOR MORE : GO TO `restaurant-ordering-system-frontend`)
+- **LINK** → https://github.com/papneetswain4-alt/restaurant-ordering-system-frontend
 - **index.html** → Landing page  
 - **menu.html** → Customer menu page  
 - **admin.html** → Admin dashboard  
@@ -161,29 +162,29 @@ The system also includes an admin dashboard that allows restaurant owners to man
 
 ### Admin Routes
 
-POST /api/admin/login
+POST `/api/admin/login`
 
 ---
 
 ### Menu Routes
 
-GET /api/menu
-POST /api/menu
-DELETE /api/menu/:id
+GET `/api/menu`
+POST `/api/menu`
+DELETE `/api/menu/:id`
 
 
 ---
 
 ### Order Routes
 
-GET /api/orders
-POST /api/orders
+GET `/api/orders`
+POST `/api/orders`
 
 ---
 
 ### Customer Routes
 
-POST /api/customers
+POST `/api/customers`
 
 
 ---
@@ -196,6 +197,7 @@ Your secret things like **Port number** , **MongoDB URL** etc
 
 
 ---
+
 
 
 ## 🔐 Authentication Flow
@@ -236,7 +238,8 @@ Flow:
 
 ## 👨‍💻 Author
 
-Papneet Swaim
+Papneet Swain
+
 `Friendly Neighborhood Developer`
 
 ---
@@ -244,6 +247,7 @@ Papneet Swaim
 ## ⭐ Support
 
 If you like this project, consider giving it a star ⭐
+
 
 
 
